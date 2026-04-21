@@ -8,7 +8,10 @@
 
 ## Demo
 
-![Datadog Dashboard](ADD_YOUR_SCREENSHOT_HERE)
+
+
+![Database](./assets/database.png)
+![Datadog Dashboard](./assets/dashboard-dd.png)
 
 The dashboard shows a cascading failure being detected and remediated in real time:
 - CPU spike on one node while others stay flat
