@@ -1,7 +1,7 @@
 # Self-Healing Distributed System
 
 
-**Live Dashboard:** [Datadog →](ADD_YOUR_DATADOG_URL_HERE)  
+**Live Dashboard:** [Datadog →](https://p.us5.datadoghq.com/sb/c449c658-6d81-11f0-8200-e2a5306dcc23-f185803d51eee3fc751a77cbdca26164)  
 **Control Plane API:** `http://localhost:8080/api/status`
 
 ---
