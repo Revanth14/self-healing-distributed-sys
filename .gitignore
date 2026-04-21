@@ -9,3 +9,4 @@ data/
 *.log
 logs/
 uv.lock
+.DS_Store
